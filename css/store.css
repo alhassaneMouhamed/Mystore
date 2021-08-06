@@ -25,7 +25,7 @@
   }
   /* background*/
   .backg{
-    background-image: url(/myStore/images/background.png);
+    background-image: url(/images/background.png);
     background-size: cover;
   }
   /* End Global Rules */
